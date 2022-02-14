@@ -1,9 +1,7 @@
 defmodule Exlivery.Orders.OrderTest do
   use ExUnit.Case
 
-  alias Exlivery.Orders.Item
   alias Exlivery.Orders.Order
-  alias Exlivery.Users.User
 
   import Exlivery.Factory
 
